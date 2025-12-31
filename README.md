@@ -4,7 +4,7 @@ Bu proje, bir masa etrafında oturan ve sadece yemek yiyen, düşünen veya uyuy
 
 ---
 
-##Özellikler
+## Özellikler
 
 - **Multi-threading:** Her bir filozofun kendi iş parçacığında (thread) çalışması.
 - **Mutex Yönetimi:** Çatalların (paylaşılan kaynaklar) güvenli kullanımı için `pthread_mutex` kullanımı.
@@ -14,7 +14,7 @@ Bu proje, bir masa etrafında oturan ve sadece yemek yiyen, düşünen veya uyuy
 
 ---
 
-##Teknik Kazanımlar
+## Teknik Kazanımlar
 
 Bu proje süresince şu sistem programlama yetkinliklerini geliştirdim:
 - **Thread Senkronizasyonu:** `pthread_create` ve `pthread_join` ile iş parçacıklarının yaşam döngüsünü yönetme.
