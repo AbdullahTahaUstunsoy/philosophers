@@ -22,7 +22,7 @@ Bu proje süresince şu sistem programlama yetkinliklerini geliştirdim:
 
 ---
 
-##Kurulum ve Çalıştırma
+## Kurulum ve Çalıştırma
 
 1. **Depoyu klonlayın:**
    ```bash
