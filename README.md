@@ -1,5 +1,3 @@
-Philosophers - I Never Thought Philosophy Would Be So Deadly
-
 Bu proje, bir masa etrafında oturan ve sadece yemek yiyen, düşünen veya uyuyan filozofların simülasyonudur. Amacı, **multi-threading** (çoklu iş parçacığı) kullanarak paylaşılan kaynakların (çatallar) yönetimini sağlamak ve filozofların açlıktan ölmesini engellemektir.
 
 ---
